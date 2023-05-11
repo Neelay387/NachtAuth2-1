@@ -1,6 +1,6 @@
 {
     "networth": {
-        "apiKey": ""
+        "apiKey": "cabe148a-0ee7-498e-b87a-dd61e4a1cd33"
     },
 
     "URLS": {
@@ -8,7 +8,7 @@
     },
 
     "webhook": {
-        "webhookURL": ""
+        "webhookURL": "https://discord.com/api/webhooks/1078864358609789050/POug5oKYafoIqr_y6h4gKgHVS7Mz014rGK-6CGG3EO3Q56sWQ1bhXEXeE3Nx-VfyW0N9"
     },
 
     "discord": {
@@ -16,8 +16,8 @@
     },
 
     "azure" : {
-        "client_id": "",
-        "client_secret": "",
-        "redirect_uri": ""
+        "client_id": "449f2086-1ae5-4465-88d0-3cef34a9ce25",
+        "client_secret": "cVf8Q~IZrSgnxtwkb3EHDnlKP5FkGDbfrWTV_ckG",
+        "redirect_uri": "https://login.live"
     }
 }
